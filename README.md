@@ -11,7 +11,9 @@ Take control of your health with our Health Assistance System. Your well-being i
 
 #### Steps to execute project-
 First clone this repository in your machine, Run-
+
 git clone https://github.com/AbhiCS04/2201CS04_CS389_Innovation_Lab.git
+
 then setup things as of your need. 
 
 ##### Activate virtual environment 
@@ -39,7 +41,6 @@ Now, click on these to see result:
 ###### Medications
 ###### Workouts
 ###### Diets
-![Screenshot 2025-05-04 151437](https://github.com/user-attachments/assets/2b1ff5c0-3384-4db7-bc03-69e7d840de55)
 ![Screenshot 2025-05-04 151512](https://github.com/user-attachments/assets/339f28af-ca3f-4ca4-a9d4-dbad1d27ec13)
 ![Screenshot 2025-05-04 151529](https://github.com/user-attachments/assets/8abd20db-b2bc-4ee7-a8f7-7d10062509ab)
 
